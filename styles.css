@@ -1,0 +1,127 @@
+body, html{
+    margin: 0%;
+    background-color: #2C9906;
+}
+p{
+    display: flex;
+    font-size: 36px;
+    text-align: center;
+}
+h2{
+    font-size: 40px;
+}
+.header{
+    display: flex;
+    background-color: #2C9906;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    
+}
+
+button{
+    background: #D9D9D9;
+    border-radius: 20px;
+    border-color: #d9d9d900;
+}
+#minecraft{
+    width: 450px;
+    height: 75px;
+    padding-bottom: 15px;
+    padding-top: 3px;
+}
+.passive{
+    display: flex;
+    flex-direction: row;
+}
+#Enderman{
+    height: 200px;
+    width: 400px;
+}
+
+.something{
+    display: flex;
+    justify-content: center;
+}
+.fall{
+    display: flex;
+    flex-direction: row-reverse;
+}
+#Waterbucket{
+    height: 200px;
+    width: 400px;
+    padding-right: 60px;
+    padding-left: 10px;
+}
+.end{
+    display: flex;
+    flex-direction: row;
+}
+#Endworld{
+    height:200px;
+    width: 400px;
+    padding-left: 10px;
+}
+.button-10{
+    margin-left: 800px;
+    font-size: x-large;
+}
+#section-1{
+    color: saddlebrown;
+}
+#section-2{
+    color: saddlebrown;
+}
+#section-3{
+    color: saddlebrown;
+}
+.button-6{
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: x-large;
+    margin-top: 50px;
+    margin-right: 10px;
+}
+#mobs{
+    padding-right: 50px;
+}
+.button-1:hover{
+    background-color: aqua;
+    color: darkblue;
+}
+.button-2:hover{
+    background-color: aqua;
+    color: darkblue;
+}
+.button-3:hover{
+    background-color: aqua;
+    color: darkblue;
+}
+.button-4:hover{
+    background-color: aqua;
+    color: darkblue;
+}
+.button-5:hover{
+    background-color: aqua;
+    color: darkblue;
+}
+
+.button-6:hover{
+    background-color: aqua;
+    color: darkblue;
+}
+
+.button-10:hover{
+    background-color: aqua;
+    color: darkblue;
+}
+#section-1:hover{
+    color: darkblue;
+}
+#section-2:hover{
+    color: darkblue;
+}
+#section-3:hover{
+    color: darkblue;
+}

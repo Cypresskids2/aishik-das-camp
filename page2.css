@@ -1,0 +1,124 @@
+body, html{
+    margin: 0%;
+    background-color: #2C9906;
+}
+
+.header{
+    display: flex;
+    background-color: #2C9906;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 10px;
+    
+}
+
+button{
+    background: #D9D9D9;
+    border-radius: 20px;
+    border-color: #d9d9d900;
+}
+#minecraft{
+    width: 450px;
+    height: 75px;
+    padding-bottom: 15px;
+    padding-top: 20px;
+}
+p{
+    display: flex;
+    font-size: 36px;
+    text-align: center ;
+}
+li{
+    font-size: 36px;
+}
+h2{
+    font-size: 40px;
+    color: saddlebrown;
+}
+.interesting{
+    display: flex;
+    flex-direction: row;
+}
+#Dream{
+    display: flex;
+    width: 200px;
+    height: 300px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+    padding-right: 50px;
+}
+#Cover{
+    width: 300px;
+    height: 300px;
+    padding-right: 50px;
+    padding-left: 400px;
+}
+
+.pic-button{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.coverpage{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.cvpg{
+    margin-left:350px; 
+}
+
+.netheriscool{
+    display: flex;
+    flex-direction: row;
+    
+}
+.caves{
+    margin-right: 800px;
+}
+#update{
+    padding-right: 50px;
+}
+#cavesandcliffs{
+    padding-left: 70px;
+}
+.nether{
+    padding-left: 160px;
+}
+#Nether{
+    padding-left: 50px;
+}
+.button-6:hover{
+    background-color: aqua;
+    color: darkblue;
+}
+
+.button-1:hover{
+    background-color: aqua;
+    color: darkblue;
+}
+.button-2:hover{
+    background-color: aqua;
+    color: darkblue;
+}
+.button-3:hover{
+    background-color: aqua;
+    color: darkblue;
+}
+.button-4:hover{
+    background-color: aqua;
+    color: darkblue;
+}
+.button-5:hover{
+    background-color: aqua;
+    color: darkblue;
+}
+#section-1:hover{
+    color: darkblue;
+}
+#section-2:hover{
+    color: darkblue;
+}
